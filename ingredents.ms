@@ -1,0 +1,1 @@
+flour,sugar,cocoa powder,baking soda , eggs ,butter milk,vegetable oil , vanilla extract,water,whiping cream ,oreo,choco chips
